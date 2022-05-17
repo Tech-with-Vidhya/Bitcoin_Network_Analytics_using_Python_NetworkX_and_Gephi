@@ -22,5 +22,4 @@
 <h3>Basic Network Statistics:</h3>  
 
 ![](images/1_Basic_Network_Statistics.jpg)
-  
-<h3>NOTE: Due to the data privacy and the data protection policy to be adhered by the students; the datasets and the solution related code are not exposed and updated in the GitHub public profile; in order to be compliant with the Queen Mary University of London (QMUL) policies.</h3>
+ 
