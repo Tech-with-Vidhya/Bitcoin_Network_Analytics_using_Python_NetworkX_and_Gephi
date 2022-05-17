@@ -1,7 +1,5 @@
-# bitcoin-transactions-network-identifying-trusted-and-fraudulent-users
+# Bitcoin_Network_Analytics_using_Python_NetworkX_and_Gephi
 
-<h3>This group project of 4 members is delivered as part of my Masters in Big Data Science (MSc BDS) Program Module named “Digital Media and Social Network” in Queen Mary University of London (QMUL), London, United Kingdom.</h3>  
-  
 <h3>This project covers the network analysis covering 4 different problem statements and use cases using python NetworkX package, Gephi network analysis tool and Microsoft excel.  Dataset: Dataset includes Bitcoin Trade Transactions for the period between 2011 to 2016.</h3>  
   
 <h3>Dataset Representation:</h3> 
@@ -22,4 +20,6 @@
 <h3>Basic Network Statistics:</h3>  
 
 ![](images/1_Basic_Network_Statistics.jpg)
+
+<h4>This group project of 4 members is delivered as part of my Masters in Big Data Science (MSc BDS) Program Module named “Digital Media and Social Network” in Queen Mary University of London (QMUL), London, United Kingdom.</h4>
  
