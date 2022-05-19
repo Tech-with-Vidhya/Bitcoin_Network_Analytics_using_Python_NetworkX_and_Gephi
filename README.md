@@ -3,6 +3,7 @@
 <h4>This project covers the network analysis covering 4 different problem statements and use cases using python NetworkX package, Gephi network analysis tool and Microsoft excel.  Dataset: Dataset includes Bitcoin Trade Transactions for the period between 2011 to 2016.</h4> 
   
 <h3>Dataset Representation:</h3> 
+<h3><a href="https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html" style="color: blue"><b><u>Bitcoin OTC Trusted Weighted Signed Network Dataset</u></b></a></h3>
 <h4>Bitcoin Trade Transactions -> Attributes (Rater, Ratee, Rating and Timestamp)</h4>
   
 <h3>Network Formation:</h3>
