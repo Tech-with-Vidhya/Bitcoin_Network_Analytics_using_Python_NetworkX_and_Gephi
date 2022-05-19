@@ -22,5 +22,13 @@
 
 ![](images/1_Basic_Network_Statistics.jpg)
 
+<h3>Network Metrics Derived</h3> 
+
+1. In-Degree Distribution
+2. Out-Degree Distribution
+3. Centrality Metrics
+4. Community Detection
+5. Distribution of Ratings Across Various Users
+
 <h4>This group project of 4 members is delivered as part of my Masters in Big Data Science (MSc BDS) Program Module named “Digital Media and Social Network” in Queen Mary University of London (QMUL), London, United Kingdom.</h4>
  
